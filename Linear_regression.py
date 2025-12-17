@@ -46,3 +46,14 @@ predicted_co2 = model.predict(new_car)
 print("\nPrediction for New Car:")
 print("Volume = 1300, Weight = 2300")
 print("Predicted CO2 Emission:", predicted_co2[0])
+
+while True:
+    user_volume = float(input("\nEnter car volume (or type 'exit' to quit): "))
+    user_weight = float(input("Enter car weight (or type 'exit' to quit): "))
+    
+    user_car = [[user_volume, user_weight]]
+    user_predicted_co2 = model.predict(user_car)
+    
+    print(f"Predicted CO2 Emission for Volume = {user_volume}, Weight = {user_weight}: {user_predicted_co2[0]}")
+    
+
