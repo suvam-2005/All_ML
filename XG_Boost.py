@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from xgboost import XGBClassifier
 
-data = pd.read_csv("/mnt/data/fba10a6f-8b0f-4a9c-8f88-1bcfaa1ec296.csv")
+data = pd.read_csv("synthetic_fraud_dataset.csv")
 
 X = data.iloc[:, :-1]
 y = data.iloc[:, -1]
