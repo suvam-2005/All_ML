@@ -1,15 +1,6 @@
-<div align="center">
-  <span style="
-    font-family: Georgia, serif;
-    font-weight: 700;
-    font-size: 35px;
-    color: #39F3BB;
-    line-height: 70px;
-    display: inline-block;
-  ">
-    ALL_ML
-  </span>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvam-2005/ALL_ML/main/header.svg" alt="ALL_ML" />
+</p>
 
 A curated repository containing **core Machine Learning algorithms** implemented in Python using industry-standard practices.  
 This repository serves as a **technical reference, practice workspace, and growing ML knowledge base**.
