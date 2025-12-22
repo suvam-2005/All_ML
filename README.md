@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&pause=1000&color=39F3BB&center=true&vCenter=true&width=600&height=70&lines=ALL_ML" alt="Typing SVG" />
+  <span style="
+    font-family: Georgia, serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: #39F3BB;
+    line-height: 70px;
+    display: inline-block;
+  ">
+    ALL_ML
+  </span>
 </div>
 
 A curated repository containing **core Machine Learning algorithms** implemented in Python using industry-standard practices.  
