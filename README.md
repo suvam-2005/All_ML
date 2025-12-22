@@ -41,6 +41,7 @@ The following Machine Learning algorithms have been implemented and tested:
 ![Decision Tree](https://img.shields.io/badge/Decision--Tree-92400E?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/Random--Forest-166534?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-DC2626?style=for-the-badge)
+![Naive Bayes](https://img.shields.io/badge/Naive--Bayes-F59E0B?style=for-the-badge)
 
 ---
 
