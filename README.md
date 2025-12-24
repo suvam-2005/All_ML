@@ -43,6 +43,7 @@ The following Machine Learning algorithms have been implemented and tested:
 ![Random Forest](https://img.shields.io/badge/Random--Forest-166534?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-DC2626?style=for-the-badge)
 ![Naive Bayes](https://img.shields.io/badge/Naive--Bayes-F59E0B?style=for-the-badge)
+![Support Vector Machine (SVM)](https://img.shields.io/badge/Support--Vector--Machine(SVM)-0EA5E9?style=for-the-badge)
 
 ---
 
