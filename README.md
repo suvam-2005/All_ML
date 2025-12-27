@@ -1,4 +1,4 @@
-![ALL_ML Image](./all_ml.jpg)
+![ALL_ML Image](./All_ML.jpeg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suvam-2005/ALL_ML/main/header.svg" alt="ALL_ML" />
