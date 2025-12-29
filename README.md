@@ -57,6 +57,10 @@ The following Machine Learning algorithms have been implemented and tested:
 
 ---
 
+### **Dimensionality Reduction / Feature Extraction**
+
+![PCA](https://img.shields.io/badge/Principal_Component_Analysis(PCA)-7b2c2c?style=for-the-badge)
+
 </div>
 
 Each implementation includes:
