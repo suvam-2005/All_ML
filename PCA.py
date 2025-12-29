@@ -5,7 +5,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.decomposition import PCA
 
-df = pd.read_csv("/mnt/data/1892eddb-a755-4fb2-9d26-9843de4c9b51.csv")
+df = pd.read_csv("penguins.csv")
 
 num_cols = df.select_dtypes(include=["float64","int64"]).columns
 cat_cols = df.select_dtypes(include=["object"]).columns
